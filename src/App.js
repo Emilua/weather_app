@@ -47,7 +47,7 @@ export default function Search() {
           </li>
         </ul>
       </form>
-      <a href=''>My project</a>developed Emil
+      <a href=''>My project</a>developed by Emil
     </div>
   );
 }
