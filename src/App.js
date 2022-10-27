@@ -47,7 +47,7 @@ export default function Search() {
           </li>
         </ul>
       </form>
-      <a href=''>My project</a>developed by Emil
+      <a href='https://github.com/Emilua/weather_app.git'>My project </a>developed by Emil
     </div>
   );
 }
